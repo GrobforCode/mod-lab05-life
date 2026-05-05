@@ -1,0 +1,8 @@
+{
+  "Rows": 20,
+  "Cols": 40,
+  "DelayMs": 100,
+  "InitialDensity": 0.3,
+  "MaxGenerations": 1000,
+  "StableThreshold": 10
+}
