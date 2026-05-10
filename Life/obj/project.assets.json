@@ -254,11 +254,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grobo\\OneDrive\\Рабочий стол\\Моделирование с Git\\mod-lab05-life\\Life\\Life.csproj",
+      "projectUniqueName": "c:\\Users\\grobo\\OneDrive\\Рабочий стол\\Моделирование с Git\\mod-lab05-life\\Life\\Life.csproj",
       "projectName": "Life",
-      "projectPath": "C:\\Users\\grobo\\OneDrive\\Рабочий стол\\Моделирование с Git\\mod-lab05-life\\Life\\Life.csproj",
+      "projectPath": "c:\\Users\\grobo\\OneDrive\\Рабочий стол\\Моделирование с Git\\mod-lab05-life\\Life\\Life.csproj",
       "packagesPath": "C:\\Users\\grobo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grobo\\OneDrive\\Рабочий стол\\Моделирование с Git\\mod-lab05-life\\Life\\obj\\",
+      "outputPath": "c:\\Users\\grobo\\OneDrive\\Рабочий стол\\Моделирование с Git\\mod-lab05-life\\Life\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -269,7 +269,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp8.0"
+        "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -277,7 +277,7 @@
       },
       "frameworks": {
         "net8.0": {
-          "targetAlias": "netcoreapp8.0",
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -295,7 +295,7 @@
     },
     "frameworks": {
       "net8.0": {
-        "targetAlias": "netcoreapp8.0",
+        "targetAlias": "net8.0",
         "dependencies": {
           "ScottPlot": {
             "target": "Package",
