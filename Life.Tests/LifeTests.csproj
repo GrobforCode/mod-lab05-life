@@ -11,4 +11,4 @@
   <ItemGroup>
     <ProjectReference Include="..\Life\Life.csproj" />
   </ItemGroup>
-</Project>
+</Project> 
