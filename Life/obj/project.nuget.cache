@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/5XIrKuG9mg=",
+  "dgSpecHash": "371JQuG4QGg=",
   "success": true,
-  "projectFilePath": "c:\\Users\\grobo\\OneDrive\\Рабочий стол\\Моделирование с Git\\mod-lab05-life\\Life\\Life.csproj",
+  "projectFilePath": "C:\\Users\\grobo\\OneDrive\\Рабочий стол\\Моделирование с Git\\mod-lab05-life\\Life\\Life.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\grobo\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
     "C:\\Users\\grobo\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
